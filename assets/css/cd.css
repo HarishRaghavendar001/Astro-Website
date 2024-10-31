@@ -1534,7 +1534,7 @@ font-family: 'Young Serif', serif;
     }
     .home h2{
         font-size:1.6rem;
-        margin-right:-160px;
+        margin-right:-140px;
         margin-top:50px;
         margin-bottom:-15px;
     }
@@ -1546,7 +1546,7 @@ font-family: 'Young Serif', serif;
     #home a{
         margin-right: -30px;
     font-size: 0.7rem;
-    margin-top: 140px;}
+    margin-top: 136px;}
   
     .prediction .img{
         margin-left: 50px;
@@ -1574,25 +1574,8 @@ font-family: 'Young Serif', serif;
         width:300px;
         height: 300px;
     }
-    .book article figure  img{
-        /* margin-top:1px; */
-        
-        height:240px;
-    }
-    .book article figure figcaption{
-        margin: 0.7rem;
-        margin-top: -8px;
-    }
-    .book article figure figcaption h3{
-        font-size: 1rem;
-    }
-    .book article figure figcaption p{
-        font-size: 0.5rem;
-        line-height:20px;
-    }
-    .book article figure figcaption a{
-        font-size:1rem;
-    }
+    
+ 
    
 
     .location iframe{

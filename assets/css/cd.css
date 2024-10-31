@@ -1534,7 +1534,7 @@ font-family: 'Young Serif', serif;
     }
     .home h2{
         font-size:1.6rem;
-        margin-right:-150px;
+        margin-right:-160px;
         margin-top:50px;
         margin-bottom:-15px;
     }
@@ -1546,17 +1546,8 @@ font-family: 'Young Serif', serif;
     #home a{
         margin-right: -30px;
     font-size: 0.7rem;
-    margin-top: 138px;}
-    /* .home span{
-        font-size:0.8rem;
-        margin-right:-30px;
-        margin-top: 10px;
-    }
-    .home h3{
-        font-size:0.6rem;
-        margin-right: -70px;
-        margin-top: 20px; 
-    } */
+    margin-top: 140px;}
+  
     .prediction .img{
         margin-left: 50px;
         margin-right: 50px;
